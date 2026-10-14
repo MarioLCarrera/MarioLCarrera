@@ -1,6 +1,6 @@
 <!-- HEADER -->
 <p align="center">
-  <img src="./assets/profile-banner.png" alt="Mario López Carrera - QA Automation Engineer" width="100%" />
+  <img src="https://raw.githubusercontent.com/MarioLCarrera/MarioLCarrera/main/assets/profile-banner.png" alt="Mario López Carrera - QA Automation Engineer" width="100%" />
 </p>
 
 <p align="center">
