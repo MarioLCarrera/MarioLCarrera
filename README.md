@@ -7,7 +7,7 @@
   <a href="https://www.linkedin.com/in/mario-l%C3%B3pez-carrera-0889661b7/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <img src="https://img.shields.io/badge/Location-Madrid%2C%20Spain-102A43?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Madrid, Spain" />
+
 </p>
 
 ---
