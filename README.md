@@ -23,7 +23,7 @@ My goal is to contribute to software quality through reliable automation, mainta
   <tr>
     <td align="center" width="120">
       <a href="https://dev.java/" title="Official Java documentation">
-        <img src=[["https://cdn.simpleicons.org/openjdk/ED8B00](https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/java.svg)](https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/java.png)" width="44" height="44" alt="OpenJDK" /><br />
+        <img src=https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/java.png" width="44" height="44" alt="OpenJDK" /><br />
         <sub><b>Java</b><br />Advanced</sub>
       </a>
     </td>
