@@ -7,20 +7,20 @@
   <a href="https://www.linkedin.com/in/mario-l%C3%B3pez-carrera-0889661b7/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-
+  <img src="https://img.shields.io/badge/Location-Madrid%2C%20Spain-102A43?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Madrid, Spain" />
 </p>
 
 ---
 
 ## About me
 
-I'm a **QA Automation Engineer** with 4+ years of experience in the banking sector, focused on test automation, API testing, BDD and regression testing.
+I'm a **QA Automation Engineer** with 4+ years of experience in the banking sector, specializing in UI and API test automation, regression testing and BDD.
 
-My professional background includes working with Java, Selenium, Cucumber and CI/CD pipelines, as well as designing and executing functional and API tests in banking environments.
+Throughout my professional experience, I've worked with Java, Selenium, Cucumber, API testing tools and CI/CD pipelines, contributing to test automation and quality assurance in banking environments.
 
-I'm currently expanding my expertise in **Playwright and TypeScript**, building automation frameworks from scratch and exploring AI-assisted development with GitHub Copilot, Claude Code, Gemini and ChatGPT.
+I'm continuously expanding my technical skills and exploring modern automation approaches, including Playwright and TypeScript, with a focus on maintainable frameworks, reliable test suites and effective quality practices.
 
-My goal is to build reliable, maintainable and scalable automated testing solutions.
+I believe good automation goes beyond writing scripts: it means designing tests that are reliable, maintainable and valuable to the team.
 
 ## Technical skills
 
@@ -36,23 +36,16 @@ My goal is to build reliable, maintainable and scalable automated testing soluti
   <a href="https://docs.python.org/3/" title="Python documentation">
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   </a>
-  <a href="https://www.postgresql.org/docs/" title="PostgreSQL documentation and SQL reference">
-    <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
-  </a>
+  <img src="https://img.shields.io/badge/Groovy-4298B8?style=for-the-badge&logo=apachegroovy&logoColor=white" alt="Groovy" />
 </p>
-
-- **Java:** test automation and application development.
-- **TypeScript:** modern browser automation and framework development.
-- **SQL:** working with data and database validation.
-- **Python:** programming and scripting.
 
 ### Test automation & BDD
 
 <p>
-  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" alt="Playwright" />
   <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium" />
   <img src="https://img.shields.io/badge/Cucumber-23D96C?style=for-the-badge&logo=cucumber&logoColor=white" alt="Cucumber" />
-  <img src="https://img.shields.io/badge/Groovy-4298B8?style=for-the-badge&logo=apachegroovy&logoColor=white" alt="Groovy" />
+  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" alt="Playwright" />
+  <img src="https://img.shields.io/badge/BDD-Gherkin-4A5568?style=for-the-badge" alt="BDD and Gherkin" />
 </p>
 
 ### API testing
@@ -68,7 +61,6 @@ My goal is to build reliable, maintainable and scalable automated testing soluti
 <p>
   <img src="https://img.shields.io/badge/Bamboo-0052CC?style=for-the-badge&logo=bamboo&logoColor=white" alt="Bamboo" />
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins" />
-  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
   <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </p>
@@ -78,49 +70,47 @@ My goal is to build reliable, maintainable and scalable automated testing soluti
 <p>
   <img src="https://img.shields.io/badge/GitHub%20Copilot-181717?style=for-the-badge&logo=githubcopilot&logoColor=white" alt="GitHub Copilot" />
   <img src="https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge" alt="Claude Code" />
-  <img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Google Gemini" />
-  <img src="https://img.shields.io/badge/ChatGPT-412991?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT" />
 </p>
 
 ## Professional experience
 
-**Automation Tester QA Lead — Atmira**  
+### Automation Tester QA Lead — Atmira
 *January 2025 – June 2026*
 
 - Designed and executed automated tests for Temenos T24 banking modules.
-- Developed automation scripts using Java and Selenium.
+- Developed test automation scripts using Java and Selenium.
 - Integrated regression suites into CI/CD pipelines.
-- Designed SIT tests for APIs and automated API testing.
-- Analysed, validated and managed defects with development teams.
+- Designed system integration testing (SIT) scenarios for APIs and automated API tests.
+- Analysed, validated and tracked defects in collaboration with development teams.
 
-**QA Automation Engineer — Cognizant**  
+### QA Automation Engineer — Cognizant
 *June 2022 – January 2025*
 
 - Designed BDD automation scenarios using Cucumber and Gherkin.
 - Developed automated API tests and regression suites.
-- Executed regression testing through Bamboo.
+- Executed regression testing through Bamboo pipelines.
 - Reported and tracked defects using Jira.
-- Worked with Java, Groovy and Katalon.
+- Worked with Java, Groovy and Katalon in test automation activities.
 
-**Software Developer Intern — NTT DATA**  
+### Software Developer Intern — NTT DATA
 *April 2022 – June 2022*
 
 - Developed and modified JavaEE microservices.
 - Performed unit and functional testing.
 - Supported deployments across multiple environments.
 
-## Current focus
+## Current learning
 
-- Developing practical automation projects with Playwright and TypeScript.
-- Improving framework architecture, test reliability and maintainability.
-- Expanding API regression testing and continuous integration practices.
-- Applying AI-assisted development techniques with code review and validation.
+- Expanding my knowledge of Playwright and TypeScript for modern test automation.
+- Exploring automation framework architecture, maintainability and test reliability.
+- Strengthening API testing and continuous integration practices.
+- Using AI-assisted development tools to support implementation, analysis and code review, while validating the resulting code and tests.
 
-## Portfolio
+## Projects
 
-I'm building a collection of practical projects to demonstrate my approach to test automation, API quality and CI/CD.
+I'm preparing practical projects to demonstrate my approach to test automation, API quality and maintainable testing frameworks.
 
-Projects will be added here as they are developed, documented and validated.
+This section will be updated as projects are developed, documented and validated.
 
 ## Contact
 
@@ -133,5 +123,5 @@ Projects will be added here as they are developed, documented and validated.
 ---
 
 <p align="center">
-  <sub>Focused on software quality, reliable automation and continuous improvement.</sub>
+  <sub>Software quality · Test automation · Reliable engineering</sub>
 </p>
