@@ -54,7 +54,7 @@ My goal is to contribute to software quality through reliable automation, mainta
   <tr>
     <td align="center" width="150">
       <a href="https://playwright.dev/docs/intro" title="Official Playwright documentation">
-        <img src="https://cdn.simpleicons.org/playwright/2EAD33" width="48" height="48" alt="Playwright" /><br />
+        <img src="http://www.w3.org/2000/svg" width="48" height="48" alt="Playwright" /><br />
         <sub><b>Playwright</b></sub>
       </a>
     </td>
@@ -202,7 +202,7 @@ This section will serve as an index of my repositories, organised by testing are
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mario-l%C3%B3pez-carrera-0889661b7/" title="Connect with me on LinkedIn">
-    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="42" height="42" alt="LinkedIn" /><br />
+    <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/linkedin.svg" width="42" height="42" alt="LinkedIn" /><br />
     <sub><b>LinkedIn</b></sub>
   </a>
 </p>
