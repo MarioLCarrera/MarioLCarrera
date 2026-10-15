@@ -3,13 +3,6 @@
   <img src="https://raw.githubusercontent.com/MarioLCarrera/MarioLCarrera/main/assets/profile-banner.png" alt="Mario López Carrera - QA Automation Engineer" width="100%" />
 </p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/mario-l%C3%B3pez-carrera-0889661b7/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <img src="https://img.shields.io/badge/Location-Madrid%2C%20Spain-102A43?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Madrid, Spain" />
-</p>
-
 ---
 
 ## About me
@@ -45,7 +38,7 @@ I believe good automation goes beyond writing scripts: it means designing tests 
   <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium" />
   <img src="https://img.shields.io/badge/Cucumber-23D96C?style=for-the-badge&logo=cucumber&logoColor=white" alt="Cucumber" />
   <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" alt="Playwright" />
-  <img src="https://img.shields.io/badge/BDD-Gherkin-4A5568?style=for-the-badge" alt="BDD and Gherkin" />
+  <img src="https://img.shields.io/badge/BDD-Gherkin-4A5568?style=for-the-badge" alt="Gherkin" />
 </p>
 
 ### API testing
