@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="150" viewBox="0 0 1200 150" role="img" aria-labelledby="title desc">
+  <title id="title">QA Automation focus</title>
+  <desc id="desc">A light panel highlighting QA Automation, API Testing, Playwright and CI/CD.</desc>
+  <rect x="1" y="1" width="1198" height="148" rx="18" fill="#F5F7FA" stroke="#DDE4ED" stroke-width="2"/>
+  <g font-family="Inter,Segoe UI,Arial,sans-serif" text-anchor="middle">
+    <g transform="translate(150 0)">
+      <circle cx="0" cy="48" r="20" fill="#DCEBFA"/><path d="M-9 48l6 6 12-14" fill="none" stroke="#0969DA" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+      <text x="0" y="94" fill="#263548" font-size="20" font-weight="650">QA Automation</text>
+    </g>
+    <g transform="translate(450 0)">
+      <circle cx="0" cy="48" r="20" fill="#E4F3E8"/><path d="M-9 40h18v16h-18zM-5 35v5M5 35v5M-5 56v5M5 56v5" fill="none" stroke="#238636" stroke-width="3" stroke-linecap="round"/>
+      <text x="0" y="94" fill="#263548" font-size="20" font-weight="650">API Testing</text>
+    </g>
+    <g transform="translate(750 0)">
+      <circle cx="0" cy="48" r="20" fill="#E4F3E8"/><path d="M-10 40l10-7 10 7v16l-10 7-10-7zM-10 40l10 7 10-7M0 47v16" fill="none" stroke="#238636" stroke-width="2.8" stroke-linejoin="round"/>
+      <text x="0" y="94" fill="#263548" font-size="20" font-weight="650">Playwright</text>
+    </g>
+    <g transform="translate(1050 0)">
+      <circle cx="0" cy="48" r="20" fill="#E7E4FA"/><path d="M-9 38h18v7h-18zM-9 50h18v7h-18zM-4 45v5" fill="none" stroke="#6554C0" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+      <text x="0" y="94" fill="#263548" font-size="20" font-weight="650">CI/CD</text>
+    </g>
+  </g>
+  <path d="M300 32v64M600 32v64M900 32v64" stroke="#DDE4ED" stroke-width="2"/>
+</svg>
