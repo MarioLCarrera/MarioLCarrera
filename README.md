@@ -54,7 +54,7 @@ My goal is to contribute to software quality through reliable automation, mainta
   <tr>
     <td align="center" width="150">
       <a href="https://playwright.dev/docs/intro" title="Official Playwright documentation">
-        <img src="http://www.w3.org/2000/svg" width="48" height="48" alt="Playwright" /><br />
+        <img src="[http://www.w3.org/2000/svg](https://cdn.brandfetch.io/idpyc8TcWP/theme/dark/logo.svg?c=1dxbfHSJFAPEGdCLU4o5B)" width="48" height="48" alt="Playwright" /><br />
         <sub><b>Playwright</b></sub>
       </a>
     </td>
