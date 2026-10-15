@@ -1,9 +1,12 @@
-<!-- HEADER -->
+
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/MarioLCarrera/MarioLCarrera/main/assets/profile-banner.png" alt="Mario López Carrera — QA Automation Engineer" width="100%" />
 </p>
 
----
+<p align="center">
+  <img src="assets/qa-focus.svg" alt="QA Automation · API Testing · Playwright · CI/CD" width="100%" />
+</p>
 
 ## About me
 
@@ -17,31 +20,33 @@ My goal is to contribute to software quality through reliable automation, mainta
 
 ## Technical skills
 
+The technology cards below use a light visual style. Each logo links to its official documentation.
+
 ### Programming languages
 
 <table>
   <tr>
-    <td align="center" width="120">
+    <td align="center" width="130">
       <a href="https://dev.java/" title="Official Java documentation">
-        <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/java.png" width="44" height="44" alt="OpenJDK" /><br />
+        <img src="https://cdn.simpleicons.org/openjdk/437291" width="42" height="42" alt="OpenJDK logo" /><br />
         <sub><b>Java</b><br />Advanced</sub>
       </a>
     </td>
-    <td align="center" width="120">
+    <td align="center" width="130">
       <a href="https://www.typescriptlang.org/docs/" title="Official TypeScript documentation">
-        <img src="https://cdn.simpleicons.org/typescript/3178C6" width="44" height="44" alt="TypeScript" /><br />
+        <img src="https://cdn.simpleicons.org/typescript/3178C6" width="42" height="42" alt="TypeScript logo" /><br />
         <sub><b>TypeScript</b></sub>
       </a>
     </td>
-    <td align="center" width="120">
+    <td align="center" width="130">
       <a href="https://docs.python.org/3/" title="Official Python documentation">
-        <img src="https://cdn.simpleicons.org/python/3776AB" width="44" height="44" alt="Python" /><br />
+        <img src="https://cdn.simpleicons.org/python/3776AB" width="42" height="42" alt="Python logo" /><br />
         <sub><b>Python</b></sub>
       </a>
     </td>
-    <td align="center" width="120">
+    <td align="center" width="130">
       <a href="https://groovy-lang.org/documentation.html" title="Official Groovy documentation">
-        <img src="https://cdn.simpleicons.org/apachegroovy/4298B8" width="44" height="44" alt="Apache Groovy" /><br />
+        <img src="https://cdn.simpleicons.org/apachegroovy/4298B8" width="42" height="42" alt="Apache Groovy logo" /><br />
         <sub><b>Groovy</b></sub>
       </a>
     </td>
@@ -54,13 +59,13 @@ My goal is to contribute to software quality through reliable automation, mainta
   <tr>
     <td align="center" width="150">
       <a href="https://playwright.dev/docs/intro" title="Official Playwright documentation">
-        <img src="https://cdn.brandfetch.io/idpyc8TcWP/theme/dark/logo.svg?c=1dxbfHSJFAPEGdCLU4o5B" width="48" height="48" alt="Playwright" /><br />
+        <img src="https://cdn.simpleicons.org/playwright/2EAD33" width="44" height="44" alt="Playwright logo" /><br />
         <sub><b>Playwright</b></sub>
       </a>
     </td>
     <td align="center" width="150">
       <a href="https://www.selenium.dev/documentation/" title="Official Selenium documentation">
-        <img src="https://cdn.simpleicons.org/selenium/43B02A" width="48" height="48" alt="Selenium" /><br />
+        <img src="https://cdn.simpleicons.org/selenium/43B02A" width="44" height="44" alt="Selenium logo" /><br />
         <sub><b>Selenium</b></sub>
       </a>
     </td>
@@ -73,13 +78,13 @@ My goal is to contribute to software quality through reliable automation, mainta
   <tr>
     <td align="center" width="150">
       <a href="https://learning.postman.com/docs/" title="Official Postman documentation">
-        <img src="https://cdn.simpleicons.org/postman/FF6C37" width="48" height="48" alt="Postman" /><br />
+        <img src="https://cdn.simpleicons.org/postman/FF6C37" width="44" height="44" alt="Postman logo" /><br />
         <sub><b>Postman</b></sub>
       </a>
     </td>
     <td align="center" width="150">
       <a href="https://docs.insomnia.rest/" title="Official Insomnia documentation">
-        <img src="https://cdn.simpleicons.org/insomnia/4000BF" width="48" height="48" alt="Insomnia" /><br />
+        <img src="https://cdn.simpleicons.org/insomnia/4000BF" width="44" height="44" alt="Insomnia logo" /><br />
         <sub><b>Insomnia</b></sub>
       </a>
     </td>
@@ -92,13 +97,13 @@ My goal is to contribute to software quality through reliable automation, mainta
   <tr>
     <td align="center" width="150">
       <a href="https://cucumber.io/docs/" title="Official Cucumber documentation">
-        <img src="https://cdn.simpleicons.org/cucumber/23D96C" width="48" height="48" alt="Cucumber" /><br />
+        <img src="https://cdn.simpleicons.org/cucumber/23D96C" width="44" height="44" alt="Cucumber logo" /><br />
         <sub><b>Cucumber</b></sub>
       </a>
     </td>
     <td align="center" width="150">
       <a href="https://cucumber.io/docs/gherkin/reference/" title="Official Gherkin reference">
-        <code style="font-size: 24px;">&lt;/&gt;</code><br /><br />
+        <img src="assets/gherkin.svg" width="44" height="44" alt="Gherkin symbol" /><br />
         <sub><b>Gherkin</b></sub>
       </a>
     </td>
@@ -109,21 +114,21 @@ My goal is to contribute to software quality through reliable automation, mainta
 
 <table>
   <tr>
-    <td align="center" width="120">
+    <td align="center" width="130">
       <a href="https://confluence.atlassian.com/bamboo" title="Official Bamboo documentation">
-        <img src="https://cdn.simpleicons.org/atlassian/0052CC" width="44" height="44" alt="Atlassian" /><br />
+        <img src="https://cdn.simpleicons.org/atlassian/0052CC" width="42" height="42" alt="Atlassian logo" /><br />
         <sub><b>Bamboo</b></sub>
       </a>
     </td>
-    <td align="center" width="120">
+    <td align="center" width="130">
       <a href="https://www.jenkins.io/doc/" title="Official Jenkins documentation">
-        <img src="https://cdn.simpleicons.org/jenkins/D24939" width="44" height="44" alt="Jenkins" /><br />
+        <img src="https://cdn.simpleicons.org/jenkins/D24939" width="42" height="42" alt="Jenkins logo" /><br />
         <sub><b>Jenkins</b></sub>
       </a>
     </td>
-    <td align="center" width="120">
+    <td align="center" width="130">
       <a href="https://support.atlassian.com/jira-software-cloud/docs/" title="Official Jira documentation">
-        <img src="https://cdn.simpleicons.org/jira/0052CC" width="44" height="44" alt="Jira" /><br />
+        <img src="https://cdn.simpleicons.org/jira/0052CC" width="42" height="42" alt="Jira logo" /><br />
         <sub><b>Jira</b></sub>
       </a>
     </td>
@@ -136,13 +141,13 @@ My goal is to contribute to software quality through reliable automation, mainta
   <tr>
     <td align="center" width="150">
       <a href="https://docs.github.com/en/copilot" title="Official GitHub Copilot documentation">
-        <img src="https://cdn.simpleicons.org/githubcopilot/000000" width="48" height="48" alt="GitHub Copilot" /><br />
+        <img src="https://cdn.simpleicons.org/githubcopilot/6E7781" width="44" height="44" alt="GitHub Copilot logo" /><br />
         <sub><b>GitHub Copilot</b></sub>
       </a>
     </td>
     <td align="center" width="150">
       <a href="https://code.claude.com/docs/en/overview" title="Official Claude Code documentation">
-        <img src="https://cdn.simpleicons.org/claude/D97757" width="48" height="48" alt="Claude" /><br />
+        <img src="https://cdn.simpleicons.org/claude/D97757" width="44" height="44" alt="Claude logo" /><br />
         <sub><b>Claude Code</b></sub>
       </a>
     </td>
@@ -202,11 +207,9 @@ This section will serve as an index of my repositories, organised by testing are
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mario-l%C3%B3pez-carrera-0889661b7/" title="Connect with me on LinkedIn">
-    <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/linkedin.svg" width="42" height="42" alt="LinkedIn" /><br />
+    <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/linkedin.svg" width="42" height="42" alt="LinkedIn logo" />
   </a>
 </p>
-
----
 
 <p align="center">
   <sub>Software quality · Test automation · Reliable engineering</sub>
