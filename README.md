@@ -18,7 +18,7 @@ I'm a **QA Automation Engineer** with 4+ years of experience in the banking sect
 
 My professional background includes working with Java, Selenium, Cucumber and CI/CD pipelines, as well as designing and executing functional and API tests in banking environments.
 
-I'm currently expanding my expertise in **Playwright and TypeScript**, building automation frameworks from scratch and exploring AI-assisted development with GitHub Copilot and Claude Code.
+I'm currently expanding my expertise in **Playwright and TypeScript**, building automation frameworks from scratch and exploring AI-assisted development with GitHub Copilot, Claude Code, Gemini and ChatGPT.
 
 My goal is to build reliable, maintainable and scalable automated testing solutions.
 
@@ -27,7 +27,18 @@ My goal is to build reliable, maintainable and scalable automated testing soluti
 ### Programming languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,typescript,python,git&theme=light" alt="Java, TypeScript, Python and Git" />
+  <a href="https://dev.java/" title="Java documentation">
+    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  </a>
+  <a href="https://www.typescriptlang.org/docs/" title="TypeScript documentation">
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  </a>
+  <a href="https://docs.python.org/3/" title="Python documentation">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  </a>
+  <a href="https://www.postgresql.org/docs/" title="PostgreSQL documentation and SQL reference">
+    <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
+  </a>
 </p>
 
 - **Java:** test automation and application development.
@@ -41,7 +52,7 @@ My goal is to build reliable, maintainable and scalable automated testing soluti
   <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" alt="Playwright" />
   <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium" />
   <img src="https://img.shields.io/badge/Cucumber-23D96C?style=for-the-badge&logo=cucumber&logoColor=white" alt="Cucumber" />
-  <img src="https://img.shields.io/badge/Katalon-4B72FA?style=for-the-badge" alt="Katalon" />
+  <img src="https://img.shields.io/badge/Groovy-4298B8?style=for-the-badge&logo=apachegroovy&logoColor=white" alt="Groovy" />
 </p>
 
 ### API testing
@@ -56,6 +67,8 @@ My goal is to build reliable, maintainable and scalable automated testing soluti
 
 <p>
   <img src="https://img.shields.io/badge/Bamboo-0052CC?style=for-the-badge&logo=bamboo&logoColor=white" alt="Bamboo" />
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins" />
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
   <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </p>
@@ -65,6 +78,8 @@ My goal is to build reliable, maintainable and scalable automated testing soluti
 <p>
   <img src="https://img.shields.io/badge/GitHub%20Copilot-181717?style=for-the-badge&logo=githubcopilot&logoColor=white" alt="GitHub Copilot" />
   <img src="https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge" alt="Claude Code" />
+  <img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Google Gemini" />
+  <img src="https://img.shields.io/badge/ChatGPT-412991?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT" />
 </p>
 
 ## Professional experience
