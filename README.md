@@ -2,13 +2,20 @@
   <img src="https://raw.githubusercontent.com/MarioLCarrera/MarioLCarrera/main/assets/profile-banner.png" alt="Mario López Carrera — QA Automation Engineer" width="100%" />
 </p>
 
-About me
-I'm a QA Automation Engineer with 4 years of experience in the banking sector, specializing in API test automation, BDD frameworks and regression testing.
+## About me
+
+I'm a **QA Automation Engineer** with 4 years of experience in the banking sector, specializing in API test automation, BDD frameworks and regression testing.
+
 My professional experience includes designing and developing automated tests, working with Java and Selenium, building Cucumber/Gherkin-based test scenarios, automating API testing and integrating regression suites into CI/CD pipelines.
-In 2026, I expanded my practical expertise in Playwright and TypeScript, designing and developing automation frameworks from scratch. I also use AI-assisted development tools to support software development, refactoring and problem-solving.
+
+In 2026, I expanded my practical expertise in **Playwright and TypeScript**, designing and developing automation frameworks from scratch. I also use AI-assisted development tools to support software development, refactoring and problem-solving.
+
 My goal is to contribute to software quality through reliable automation, maintainable test frameworks and effective collaboration with development teams.
-Technical skills
-Programming languages
+
+## Technical skills
+
+### Programming languages
+
 <table>
   <tr>
     <td align="center" width="130">
@@ -38,7 +45,8 @@ Programming languages
   </tr>
 </table>
 
-UI & End-to-End Testing
+### UI & End-to-End Testing
+
 <table>
   <tr>
     <td align="center" width="150">
@@ -56,7 +64,8 @@ UI & End-to-End Testing
   </tr>
 </table>
 
-API Testing
+### API Testing
+
 <table>
   <tr>
     <td align="center" width="150">
@@ -74,7 +83,8 @@ API Testing
   </tr>
 </table>
 
-BDD & Test Design
+### BDD & Test Design
+
 <table>
   <tr>
     <td align="center" width="150">
@@ -92,7 +102,8 @@ BDD & Test Design
   </tr>
 </table>
 
-CI/CD & Collaboration
+### CI/CD & Collaboration
+
 <table>
   <tr>
     <td align="center" width="130">
@@ -116,7 +127,8 @@ CI/CD & Collaboration
   </tr>
 </table>
 
-AI-Assisted Development
+### AI-Assisted Development
+
 <table>
   <tr>
     <td align="center" width="150">
@@ -134,44 +146,57 @@ AI-Assisted Development
   </tr>
 </table>
 
-Professional experience
-Automation Tester QA Lead — Atmira
-January 2025 – June 2026
+## Professional experience
+
+### Automation Tester QA Lead — Atmira
+*January 2025 – June 2026*
+
 - Designed and executed automated test cases for Temenos T24 banking modules.
 - Developed automation scripts using Java and Selenium.
 - Integrated test suites into CI/CD pipelines for execution across different environments.
 - Analysed and designed system integration testing (SIT) scenarios for APIs.
 - Automated API testing.
 - Managed defects through validation, prioritisation and assignment to development teams.
-QA Automation Tester — Cognizant
-June 2022 – January 2025
+
+### QA Automation Tester — Cognizant
+*June 2022 – January 2025*
+
 - Analysed and designed test automation using Cucumber.
 - Developed automated API tests.
 - Executed regression test suites through Bamboo.
 - Reported and tracked defects using Jira.
 - Developed new features using Java, Groovy and Katalon.
 - Developed Gherkin-based test architecture.
-Junior Programmer Intern — NTT DATA
-April 2022 – June 2022
+
+### Junior Programmer Intern — NTT DATA
+*April 2022 – June 2022*
+
 - Developed new Java EE microservices and enhanced existing services.
 - Performed unit and functional testing.
 - Supported deployments across certification, test-pre-production and pre-production environments.
-Technical development
-Playwright, TypeScript & AI-assisted development
-June 2026 – August 2026
+
+## Technical development
+
+### Playwright, TypeScript & AI-assisted development
+*June 2026 – August 2026*
+
 - Completed practical training in Playwright and TypeScript through online courses.
 - Designed and developed automation frameworks from scratch using Playwright.
 - Applied GitHub Copilot and Claude Code to framework design, implementation, refactoring and problem-solving.
 - Continued strengthening test automation practices and framework maintainability.
-Projects
+
+## Projects
+
 This section will serve as an index of my repositories, organised by testing area. Repository links will be added here as projects are published.
-Area	Repository
-UI & End-to-End Testing	Repository link to be added
-API Testing	Repository link to be added
-BDD & Test Frameworks	Repository link to be added
 
+| Area | Repository |
+|---|---|
+| UI & End-to-End Testing | *Repository link to be added* |
+| API Testing | *Repository link to be added* |
+| BDD & Test Frameworks | *Repository link to be added* |
 
-Contact
+## Contact
+
 <p align="center">
   <a href="https://www.linkedin.com/in/mario-l%C3%B3pez-carrera-0889661b7/" title="Connect with me on LinkedIn">
     <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/linkedin.svg" width="42" height="42" alt="LinkedIn logo" />
