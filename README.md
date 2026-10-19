@@ -1,206 +1,119 @@
+<h1 align="center">Mario López Carrera</h1>
+<h3 align="center">QA Automation Engineer · Banking · API, BDD & E2E Testing</h3>
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/MarioLCarrera/MarioLCarrera/main/assets/profile-banner.png" alt="Mario López Carrera — QA Automation Engineer" width="100%" />
 </p>
 
-## About me
+<p align="center">
+  <a href="https://www.linkedin.com/in/mario-l%C3%B3pez-carrera-0889661b7/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:mario.lopez.carrera@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <img src="https://img.shields.io/badge/Location-Madrid%2C%20Spain-555555?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Madrid, Spain" />
+</p>
 
-I'm a **QA Automation Engineer** with 4 years of experience in the banking sector, specializing in API test automation, BDD frameworks and regression testing.
+---
 
-My professional experience includes designing and developing automated tests, working with Java and Selenium, building Cucumber/Gherkin-based test scenarios, automating API testing and integrating regression suites into CI/CD pipelines.
+## 👋 About me
 
-In 2026, I expanded my practical expertise in **Playwright and TypeScript**, designing and developing automation frameworks from scratch. I also use AI-assisted development tools to support software development, refactoring and problem-solving.
+I'm a **QA Automation Engineer with 4+ years of experience in the banking sector**, where quality is not optional. I specialize in **API test automation, BDD frameworks and regression testing**, and I currently lead automation efforts on **Temenos T24** banking modules.
 
-My goal is to contribute to software quality through reliable automation, maintainable test frameworks and effective collaboration with development teams.
+What I do best:
 
-## Technical skills
+- 🧪 **Design reliable automation**: from Selenium/Java and Cucumber suites to modern **Playwright + TypeScript** frameworks built from scratch.
+- 🔌 **Test at the API level**: SIT scenarios and automated API tests that catch problems before the UI does.
+- 🔁 **Make quality continuous**: regression suites integrated into CI/CD pipelines and executed across environments.
+- 🤝 **Close the loop with developers**: defect validation, prioritisation and clear hand-off to dev teams.
+- 🤖 **Work with AI-assisted tools** (GitHub Copilot, Claude Code) for framework design, refactoring and problem-solving.
 
-### Programming languages
+> 🎯 **Goal:** contribute to software quality through reliable automation, maintainable test frameworks and effective collaboration with development teams.
 
-<table>
-  <tr>
-    <td align="center" width="130">
-      <a href="https://dev.java/" title="Official Java documentation">
-        <img src="https://cdn.simpleicons.org/openjdk/437291" width="42" height="42" alt="OpenJDK logo" /><br />
-        <sub><b>Java</b><br />Advanced</sub>
-      </a>
-    </td>
-    <td align="center" width="130">
-      <a href="https://www.typescriptlang.org/docs/" title="Official TypeScript documentation">
-        <img src="https://cdn.simpleicons.org/typescript/3178C6" width="42" height="42" alt="TypeScript logo" /><br />
-        <sub><b>TypeScript</b></sub>
-      </a>
-    </td>
-    <td align="center" width="130">
-      <a href="https://docs.python.org/3/" title="Official Python documentation">
-        <img src="https://cdn.simpleicons.org/python/3776AB" width="42" height="42" alt="Python logo" /><br />
-        <sub><b>Python</b></sub>
-      </a>
-    </td>
-    <td align="center" width="130">
-      <a href="https://groovy-lang.org/documentation.html" title="Official Groovy documentation">
-        <img src="https://cdn.simpleicons.org/apachegroovy/4298B8" width="42" height="42" alt="Apache Groovy logo" /><br />
-        <sub><b>Groovy</b></sub>
-      </a>
-    </td>
-  </tr>
-</table>
+---
+
+## 🛠️ Tech stack
+
+### Languages
+![Java](https://img.shields.io/badge/Java-Advanced-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Groovy](https://img.shields.io/badge/Groovy-4298B8?style=flat-square&logo=apachegroovy&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 
 ### UI & End-to-End Testing
-
-<table>
-  <tr>
-    <td align="center" width="150">
-      <a href="https://playwright.dev/docs/intro" title="Official Playwright documentation">
-        <img src="https://cdn.brandfetch.io/idpyc8TcWP/theme/dark/logo.svg?c=1dxbfHSJFAPEGdCLU4o5B" width="44" height="44" alt="Playwright logo" /><br />
-        <sub><b>Playwright</b></sub>
-      </a>
-    </td>
-    <td align="center" width="150">
-      <a href="https://www.selenium.dev/documentation/" title="Official Selenium documentation">
-        <img src="https://cdn.simpleicons.org/selenium/43B02A" width="44" height="44" alt="Selenium logo" /><br />
-        <sub><b>Selenium</b></sub>
-      </a>
-    </td>
-  </tr>
-</table>
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
+![Katalon](https://img.shields.io/badge/Katalon-1F2937?style=flat-square)
 
 ### API Testing
-
-<table>
-  <tr>
-    <td align="center" width="150">
-      <a href="https://learning.postman.com/docs/" title="Official Postman documentation">
-        <img src="https://cdn.simpleicons.org/postman/FF6C37" width="44" height="44" alt="Postman logo" /><br />
-        <sub><b>Postman</b></sub>
-      </a>
-    </td>
-    <td align="center" width="150">
-      <a href="https://docs.insomnia.rest/" title="Official Insomnia documentation">
-        <img src="https://cdn.simpleicons.org/insomnia/4000BF" width="44" height="44" alt="Insomnia logo" /><br />
-        <sub><b>Insomnia</b></sub>
-      </a>
-    </td>
-  </tr>
-</table>
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Insomnia](https://img.shields.io/badge/Insomnia-4000BF?style=flat-square&logo=insomnia&logoColor=white)
 
 ### BDD & Test Design
-
-<table>
-  <tr>
-    <td align="center" width="150">
-      <a href="https://cucumber.io/docs/" title="Official Cucumber documentation">
-        <img src="https://cdn.simpleicons.org/cucumber/23D96C" width="44" height="44" alt="Cucumber logo" /><br />
-        <sub><b>Cucumber</b></sub>
-      </a>
-    </td>
-    <td align="center" width="150">
-      <a href="https://cucumber.io/docs/gherkin/reference/" title="Official Gherkin reference">
-        <img src="assets/gherkin.svg" width="44" height="44" alt="Gherkin symbol" /><br />
-        <sub><b>Gherkin</b></sub>
-      </a>
-    </td>
-  </tr>
-</table>
+![Cucumber](https://img.shields.io/badge/Cucumber-23D96C?style=flat-square&logo=cucumber&logoColor=white)
+![Gherkin](https://img.shields.io/badge/Gherkin-BDD-23D96C?style=flat-square)
 
 ### CI/CD & Collaboration
-
-<table>
-  <tr>
-    <td align="center" width="130">
-      <a href="https://confluence.atlassian.com/bamboo" title="Official Bamboo documentation">
-        <img src="https://cdn.simpleicons.org/atlassian/0052CC" width="42" height="42" alt="Atlassian logo" /><br />
-        <sub><b>Bamboo</b></sub>
-      </a>
-    </td>
-    <td align="center" width="130">
-      <a href="https://www.jenkins.io/doc/" title="Official Jenkins documentation">
-        <img src="https://cdn.simpleicons.org/jenkins/D24939" width="42" height="42" alt="Jenkins logo" /><br />
-        <sub><b>Jenkins</b></sub>
-      </a>
-    </td>
-    <td align="center" width="130">
-      <a href="https://support.atlassian.com/jira-software-cloud/docs/" title="Official Jira documentation">
-        <img src="https://cdn.simpleicons.org/jira/0052CC" width="42" height="42" alt="Jira logo" /><br />
-        <sub><b>Jira</b></sub>
-      </a>
-    </td>
-  </tr>
-</table>
+![Bamboo](https://img.shields.io/badge/Bamboo-0052CC?style=flat-square&logo=atlassian&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ### AI-Assisted Development
+![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000000?style=flat-square&logo=githubcopilot&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757?style=flat-square&logo=claude&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
 
-<table>
-  <tr>
-    <td align="center" width="150">
-      <a href="https://docs.github.com/en/copilot" title="Official GitHub Copilot documentation">
-        <img src="https://cdn.simpleicons.org/githubcopilot/6E7781" width="44" height="44" alt="GitHub Copilot logo" /><br />
-        <sub><b>GitHub Copilot</b></sub>
-      </a>
-    </td>
-    <td align="center" width="150">
-      <a href="https://code.claude.com/docs/en/overview" title="Official Claude Code documentation">
-        <img src="https://cdn.simpleicons.org/claude/D97757" width="44" height="44" alt="Claude logo" /><br />
-        <sub><b>Claude Code</b></sub>
-      </a>
-    </td>
-  </tr>
-</table>
+---
 
-## Professional experience
+## 💼 Experience
 
-### Automation Tester QA Lead — Atmira
-*January 2025 – June 2026*
+| Period | Role | Focus |
+|---|---|---|
+| **01/2025 – 06/2026** | **QA Automation Tester Lead** · Atmira | Automated tests for Temenos T24 modules (Java + Selenium), API test automation, SIT design for APIs, CI/CD integration, defect management |
+| **06/2022 – 01/2025** | **QA Automation Tester** · Cognizant | Cucumber/Gherkin test architecture, API automation, regression in Bamboo, Java/Groovy/Katalon features |
+| **04/2022 – 06/2022** | **Junior Programmer (Intern)** · NTT DATA | Java EE microservices, unit & functional testing, multi-environment deployments |
 
-- Designed and executed automated test cases for Temenos T24 banking modules.
-- Developed automation scripts using Java and Selenium.
-- Integrated test suites into CI/CD pipelines for execution across different environments.
-- Analysed and designed system integration testing (SIT) scenarios for APIs.
-- Automated API testing.
-- Managed defects through validation, prioritisation and assignment to development teams.
+---
 
-### QA Automation Tester — Cognizant
-*June 2022 – January 2025*
+## 🚀 Featured projects
 
-- Analysed and designed test automation using Cucumber.
-- Developed automated API tests.
-- Executed regression test suites through Bamboo.
-- Reported and tracked defects using Jira.
-- Developed new features using Java, Groovy and Katalon.
-- Developed Gherkin-based test architecture.
+> Repositories are being published, organised by testing area.
 
-### Junior Programmer Intern — NTT DATA
-*April 2022 – June 2022*
+| Area | Project | Stack |
+|---|---|---|
+| 🖥️ **UI & End-to-End** | 🔜 *Coming soon* | Playwright · TypeScript |
+| 🔌 **API Testing** | 🔜 *Coming soon* | Playwright / Postman · TypeScript |
+| 🥒 **BDD & Frameworks** | 🔜 *Coming soon* | Cucumber · Gherkin · Java |
 
-- Developed new Java EE microservices and enhanced existing services.
-- Performed unit and functional testing.
-- Supported deployments across certification, test-pre-production and pre-production environments.
+---
 
-## Technical development
+## 🌱 Currently
 
-### Playwright, TypeScript & AI-assisted development
-*June 2026 – August 2026*
+- Building **Playwright + TypeScript** automation frameworks from scratch.
+- Applying **GitHub Copilot** and **Claude Code** to design, refactoring and problem-solving.
+- Strengthening framework maintainability and test architecture.
 
-- Completed practical training in Playwright and TypeScript through online courses.
-- Designed and developed automation frameworks from scratch using Playwright.
-- Applied GitHub Copilot and Claude Code to framework design, implementation, refactoring and problem-solving.
-- Continued strengthening test automation practices and framework maintainability.
+---
 
-## Projects
-
-This section will serve as an index of my repositories, organised by testing area. Repository links will be added here as projects are published.
-
-| Area | Repository |
-|---|---|
-| UI & End-to-End Testing | *Repository link to be added* |
-| API Testing | *Repository link to be added* |
-| BDD & Test Frameworks | *Repository link to be added* |
-
-## Contact
+## 📊 GitHub stats
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/mario-l%C3%B3pez-carrera-0889661b7/" title="Connect with me on LinkedIn">
-    <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/linkedin.svg" width="42" height="42" alt="LinkedIn logo" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=MarioLCarrera&show_icons=true&hide_border=true&theme=transparent" height="150" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarioLCarrera&layout=compact&hide_border=true&theme=transparent" height="150" alt="Top languages" />
+</p>
+
+---
+
+## 🌍 Languages
+
+🇪🇸 Spanish (native) · 🇬🇧 English (B2)
+
+---
+
+## 📫 Contact
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/mario-l%C3%B3pez-carrera-0889661b7/"><img src="https://img.shields.io/badge/LinkedIn-Let's%20connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:mario.lopez.carrera@gmail.com"><img src="https://img.shields.io/badge/Email-Get%20in%20touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 <p align="center">
