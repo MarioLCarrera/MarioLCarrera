@@ -31,38 +31,114 @@ What I do best:
 
 ## 🛠️ Tech stack
 
+> Click any logo to open the official documentation.
+
 ### Languages
-![Java](https://img.shields.io/badge/Java-Advanced-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Groovy](https://img.shields.io/badge/Groovy-4298B8?style=flat-square&logo=apachegroovy&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+
+<table>
+  <tr>
+    <td align="center" width="130">
+      <a href="https://dev.java/" title="Official Java documentation">
+        <img src="https://cdn.simpleicons.org/openjdk/437291" width="42" height="42" alt="Java logo" /><br />
+        <sub><b>Java</b><br />Advanced</sub>
+      </a>
+    </td>
+    <td align="center" width="130">
+      <a href="https://www.typescriptlang.org/docs/" title="Official TypeScript documentation">
+        <img src="https://cdn.simpleicons.org/typescript/3178C6" width="42" height="42" alt="TypeScript logo" /><br />
+        <sub><b>TypeScript</b></sub>
+      </a>
+    </td>
+    <td align="center" width="130">
+      <a href="https://docs.python.org/3/" title="Official Python documentation">
+        <img src="https://cdn.simpleicons.org/python/3776AB" width="42" height="42" alt="Python logo" /><br />
+        <sub><b>Python</b></sub>
+      </a>
+    </td>
+    <td align="center" width="130">
+      <a href="https://groovy-lang.org/documentation.html" title="Official Groovy documentation">
+        <img src="https://cdn.simpleicons.org/apachegroovy/4298B8" width="42" height="42" alt="Groovy logo" /><br />
+        <sub><b>Groovy</b></sub>
+      </a>
+    </td>
+  </tr>
+</table>
 
 ### UI & End-to-End Testing
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
-![Katalon](https://img.shields.io/badge/Katalon-1F2937?style=flat-square)
+
+<table>
+  <tr>
+    <td align="center" width="150">
+      <a href="https://playwright.dev/docs/intro" title="Official Playwright documentation">
+        <img src="https://cdn.brandfetch.io/idpyc8TcWP/theme/dark/logo.svg?c=1dxbfHSJFAPEGdCLU4o5B" width="44" height="44" alt="Playwright logo" /><br />
+        <sub><b>Playwright</b></sub>
+      </a>
+    </td>
+    <td align="center" width="150">
+      <a href="https://www.selenium.dev/documentation/" title="Official Selenium documentation">
+        <img src="https://cdn.simpleicons.org/selenium/43B02A" width="44" height="44" alt="Selenium logo" /><br />
+        <sub><b>Selenium</b></sub>
+      </a>
+    </td>
+    <td align="center" width="150">
+      <a href="https://docs.katalon.com/" title="Official Katalon documentation">
+        <img src="https://cdn.simpleicons.org/katalon/00C389" width="44" height="44" alt="Katalon logo" /><br />
+        <sub><b>Katalon</b></sub>
+      </a>
+    </td>
+  </tr>
+</table>
 
 ### API Testing
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![Insomnia](https://img.shields.io/badge/Insomnia-4000BF?style=flat-square&logo=insomnia&logoColor=white)
+
+<table>
+  <tr>
+    <td align="center" width="150">
+      <a href="https://learning.postman.com/docs/" title="Official Postman documentation">
+        <img src="https://cdn.simpleicons.org/postman/FF6C37" width="44" height="44" alt="Postman logo" /><br />
+        <sub><b>Postman</b></sub>
+      </a>
+    </td>
+    <td align="center" width="150">
+      <a href="https://docs.insomnia.rest/" title="Official Insomnia documentation">
+        <img src="https://cdn.simpleicons.org/insomnia/4000BF" width="44" height="44" alt="Insomnia logo" /><br />
+        <sub><b>Insomnia</b></sub>
+      </a>
+    </td>
+  </tr>
+</table>
 
 ### BDD & Test Design
-![Cucumber](https://img.shields.io/badge/Cucumber-23D96C?style=flat-square&logo=cucumber&logoColor=white)
-![Gherkin](https://img.shields.io/badge/Gherkin-BDD-23D96C?style=flat-square)
+
+<table>
+  <tr>
+    <td align="center" width="150">
+      <a href="https://cucumber.io/docs/" title="Official Cucumber documentation">
+        <img src="https://cdn.simpleicons.org/cucumber/23D96C" width="44" height="44" alt="Cucumber logo" /><br />
+        <sub><b>Cucumber</b></sub>
+      </a>
+    </td>
+    <td align="center" width="150">
+      <a href="https://cucumber.io/docs/gherkin/reference/" title="Official Gherkin reference">
+        <img src="assets/gherkin.svg" width="44" height="44" alt="Gherkin symbol" /><br />
+        <sub><b>Gherkin</b></sub>
+      </a>
+    </td>
+  </tr>
+</table>
 
 ### CI/CD & Collaboration
-![Bamboo](https://img.shields.io/badge/Bamboo-0052CC?style=flat-square&logo=atlassian&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-### AI-Assisted Development
-![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000000?style=flat-square&logo=githubcopilot&logoColor=white)
-![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757?style=flat-square&logo=claude&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
-
----
+<table>
+  <tr>
+    <td align="center" width="130">
+      <a href="https://confluence.atlassian.com/bamboo" title="Official Bamboo documentation">
+        <img src="https://cdn.simpleicons.org/atlassian/0052CC" width="42" height="42" alt="Bamboo logo" /><br />
+        <sub><b>Bamboo</b></sub>
+      </a>
+    </td>
+    <td align="center" width="130">
+      <a href="https://www.jenkins.io/doc/" title="Official
 
 ## 💼 Experience
 
